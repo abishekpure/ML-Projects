@@ -20,8 +20,10 @@ e) Visualization: To give a clear comparison and insight into the model's perfor
 
 When it comes to predicting the price of the cryptocurrency Dogecoin, the LSTM model shows encouraging results. The following are some important conclusions:
 a) Accuracy Metrics: On the test dataset, the model obtains an RMSE of 0.2615 and an MAE of 0.1859.
+
 b) Visualization: The model's ability to visualize the overall trends and patterns in the Dogecoin price data is demonstrated by the comparison of anticipated and 
    actual prices.
+   
 c) Further Evaluation: Additional analysis can shed more light on the advantages and disadvantages of the model. Examples include residual analysis and comparison 
    with baseline models.
 
