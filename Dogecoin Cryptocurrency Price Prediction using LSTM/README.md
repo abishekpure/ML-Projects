@@ -25,8 +25,12 @@ b) Visualization: The model's ability to visualize the overall trends and patter
 c) Further Evaluation: Additional analysis can shed more light on the advantages and disadvantages of the model. Examples include residual analysis and comparison 
    with baseline models.
 
-   ![image](https://github.com/abishekpure/ML-Projects/assets/124038118/5de9a263-5650-42d3-b405-c4ded5c41351)
-   ![image](https://github.com/abishekpure/ML-Projects/assets/124038118/7c5e0a0e-71bc-4630-8dff-a56d55d1895f)
+  ![image](https://github.com/abishekpure/ML-Projects/assets/124038118/8f2571fe-c4af-44e5-b0b6-69f62eb7121e)
+  ![image](https://github.com/abishekpure/ML-Projects/assets/124038118/7065aa1a-ef13-4c36-8b80-4fa812a13378)
+
+**CONCLUSION**
+
+The Dogecoin Cryptocurrency Price Prediction experiment shows how well LSTM neural networks function for predicting Dogecoin prices. Through the use of machine learning algorithms and historical price data, the model offers traders, investors, and cryptocurrency fans insightful information. More in-depth and trustworthy price prediction models may result from ongoing study and development in this field, which will advance knowledge of and analysis of cryptocurrency markets.
 
 
 
